@@ -5,7 +5,7 @@ function Navbar(){
     return (
         <nav className="main-navbar">
             <Logo/>
-            <a href="dashboard" className="logo-text">Catálogo Veículos</a>
+            <a href="home" className="logo-text">VeHero</a>
         </nav>
     )
 }
