@@ -1,0 +1,35 @@
+.home-footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: var(--dark-color);
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #fff;
+}
+.footer-icons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icons > * {
+  margin-right: 5px;
+}
+
+.footer-icons-container {
+  display: flex;
+}
+
+.footer-link {
+  margin: 0 0 0 2px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+
+.footer-link p {
+  margin: 0;
+}
