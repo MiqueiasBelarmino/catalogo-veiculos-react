@@ -48,6 +48,7 @@
   .home-btn-order:hover {
     background-color: var(--primary-hover-color);
     transform: scale(1.01);
+    color: #FFF;
   }
   
   .home-image svg {
