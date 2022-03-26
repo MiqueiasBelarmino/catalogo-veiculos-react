@@ -1,6 +1,6 @@
 .main-navbar{
     height: 70px;
-    background-color: #400dbf;
+    background-color: var(--primary-color);
     padding-left: 45px;
     display: flex;
     align-items: center;
@@ -13,4 +13,9 @@
     color: #FFF;
     text-decoration: none;
     margin-left: 5px;
+}
+
+.logo-text:hover{
+    font-size: 25px;
+    color: #FFF;
 }
